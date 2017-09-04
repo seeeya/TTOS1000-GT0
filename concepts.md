@@ -43,7 +43,7 @@
 | - | [Poikkeama - Defect]( Poikkeama(Defect)) | [Ominaisuus/piirre (Feature)]( Ominaisuus piirre (Feature)) | - |
 | - | [Kriittinen polku - Critical Path](Kriittinen-polku) | [Vikatietokanta - Defect Database]() | - |
 | - | [Julkaisusuunnitelma - Release Plan](julkaisusuunnitelma)  | [Muutospyynto - Change Request](muutospyynto)  | - |
-| - | [Julkaisu - Release](Julkaisu-(Release)) | [Vikaraportti - Bug report](Vikaraportti-(Bug-Report))| - |  [Versiohallinta  - version control](versionhallinta) | [Tarkistus (Verifiointi)](verifikaatio) | - |
+| - | [Julkaisu - Release](julkaisu-release)) | [vikaraportti - bug report](vikaraportti-bug-report))| - | [Versiohallinta  - version control](versionhallinta) | [Tarkistaminen - Verifiointi)](verifikaatio-verification) | - |
 | - | [Konfiguraatiohallinta(configuration management)](konfiguraatiohallinta) | [Kelpuutus (Validation)](kelpuutus) | - |
 | - | [Docker-teknologia - Docker Technology](Docker-kontti) | [Projektisuunnitelma (Project Plan)](Projektisuunnitelma) | - |
 | - | [Mikropalvelu - Micro Service](mikropalvelu) | [Riskien hallinta - Risk Management](riskienhallinta) |- |
