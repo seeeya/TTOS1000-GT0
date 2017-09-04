@@ -50,7 +50,7 @@
 | E9 | [Virtuaalikone - Virtual Machine)](vvirtuaalikone) | [Palvelumuotoilija - Service Designer)](palvelumuotoilija) |- |
 | F1 | [Vagrant-teknologia - Vagrant technology](vagrant-technology) | [Ohjelmistotuotanto](Ohjelmistotuotanto) |
 | F2 | [Systeemi ajattelu - System Thinking](systeemiajattelu) | [ohjelmistotestaaja - software tester](ohjelmistotestaaja)  | 
-| F3 | [Prosessin omistaja - Process owner](prosessinomistaja) |[Kettera kehittaminen - Agile development](kettera kehittaminen)| - |
+| F3 | [Prosessin omistaja - Process owner](prosessinomistaja) | [Kettera kehittaminen - agile development](kettera-kehittaminen) | - |
 | F4 | [Ohjelmiston elinkaarimalli](ohjelmiston-elinkaarimalli) | [Jatkuva Suunnittelu - Continuous Planning](continuous-planning) | - |
 
 
