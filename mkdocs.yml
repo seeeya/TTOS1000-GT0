@@ -1,5 +1,5 @@
 
 site_name: Markdown practice rtd
-repo_url: https://github.com/bewest/rtd-markdown-practice
+repo_url: https://github.com/JAMKPROJ/TTOS1000-PT0
 markdown_extensions: [meta, toc, tables, fenced_code]
 
