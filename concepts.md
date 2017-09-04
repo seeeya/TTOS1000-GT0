@@ -36,7 +36,7 @@
 | D4 | [Regressiotestaus (Regression Testing)](regressio-testaus) | [Jatkuvajulkaisu (Continuous Delivery)](jatkuvajulkaisu) | - |
 | D5 | [Julkaisusuunnittelu (Release Management)](julkaisusuunnittelu) | [Jatkuvasuunnittelu (Continuous Planning)](jatkuvasuunnittelu) | - |
 | D6 | [Kayttoonotto (Service Deployment)](regressio-testaus) | [Liiketoiminantavoite (Business Goal)](liiketoimintatavoite) |- |
-| D7 | [Yllapito (Maintenance)](yllapito) | Palvelukuvaus (Service Description) | - |
+| D7 | [Yllapito (Maintenance)](yllapito) | [Palvelukuvaus - Service Description](service-description) | - |
 | D8 | [Vika - Bug](Vika-(bug)) | [SLA Service Level Agreement](service-level-agreement)) |- |
 | D9 | [Virhe - Failure](Virhe) | [Vianhallinta (Error management)](vianhallinta) | - |
 | E1 | [Ongelma, virhe, vika](ongelma) | [Logi](logi) |- |
