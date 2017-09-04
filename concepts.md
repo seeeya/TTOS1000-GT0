@@ -40,7 +40,7 @@
 | D8 | [Vika - Bug](Vika-(bug)) | [SLA Service Level Agreement](service-level-agreement)) |- |
 | D9 | [Virhe - Failure](Virhe) | [Vianhallinta (Error management)](vianhallinta) | - |
 | E1 | [Ongelma, virhe, vika](ongelma) | [Logi](logi) |- |
-| E2 | [Poikkeama - Defect]( Poikkeama(Defect)) | [Ominaisuus/piirre (Feature)]( Ominaisuus piirre (Feature)) | - |
+| E2 | [Poikkeama - Defect]( Poikkeama(Defect)) | [Ominaisuus/piirre - Feature](ominaisuuus-feature) | - |
 | E3 | [Kriittinen polku - Critical Path](Kriittinen-polku) | [Vikatietokanta - Defect Database]() | - |
 | E4 | [Julkaisusuunnitelma - Release Plan](julkaisusuunnitelma)  | [Muutospyynto - Change Request](muutospyynto)  | - |
 | E5 | [Julkaisu - Release](julkaisu-release)) | [vikaraportti - bug report](vikaraportti-bug-report))| - | [Versiohallinta  - version control](versionhallinta) | [Tarkistaminen - Verifiointi)](verifikaatio-verification) | - |
