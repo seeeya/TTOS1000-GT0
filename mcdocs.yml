@@ -1,0 +1,5 @@
+
+site_name: Markdown practice rtd
+repo_url: https://github.com/bewest/rtd-markdown-practice
+markdown_extensions: [meta, toc, tables, fenced_code]
+
