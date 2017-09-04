@@ -1,4 +1,7 @@
+###Huomio!
 
+Käytä [tätä sivua pohjana omille sivuille](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/use-this-file-as-concept-template.md)
+Kopio sisältö "RAW"-muodossa ja luo uusi MarkDown-tiedosto tähän samaan repoon...
 
 
 | Vast | Kasite 1 | Kasite 2 | Kasite 3 |
