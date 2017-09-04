@@ -51,5 +51,7 @@
 | - | [Vagrant-teknologia - Vagrant technology](vagrant-technology) | [Ohjelmistotuotanto](Ohjelmistotuotanto) |
 | - | [Systeemi ajattelu - System Thinking](systeemiajattelu) | [ohjelmistotestaaja - software tester](ohjelmistotestaaja)  | 
 | - | [Prosessin omistaja - Process owner](prosessinomistaja) |[Kettera kehittaminen - Agile development](kettera kehittaminen)| - |
+| - | [Ohjelmiston elinkaarimalli](ohjelmiston-elinkaarimalli) |[Jatkuva Suunnittelu - Continuous Planning](continuous-planning)| - |
+
 
 
