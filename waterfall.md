@@ -40,5 +40,5 @@ Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
 
 Listaa tähän sivut repositorion sisältä, jotka liittyvät kuvaamaasi käsitteeseen/aiheeseen
 
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
+* [Kannattaa lukea esim, Testitapauksista täältä](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/test-case.md)
 * [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]() 
