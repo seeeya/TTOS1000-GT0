@@ -1,6 +1,6 @@
 ## Koemateriaali kurssille TTOS1000 
 
-Tämä on syksyn 2017 koemateriaali ReadTheDocs-formaatissa
+_Tämä on syksyn 2017 koemateriaali ReadTheDocs-formaatissa_
 
 ======================
 .. toctree::
