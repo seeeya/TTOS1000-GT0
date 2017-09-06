@@ -2,10 +2,9 @@
 
 _Tämä on syksyn 2017 koemateriaali ReadTheDocs-formaatissa_
 
-======================
-.. toctree::
+Tämä materiaali syntyy kurssin yhteisenä ponnistuksena. Käsitteet ovat oleellisia ohjelmistotuotannon parissa työskentelevälle.
+Tavoite on perehtyä niihin yleisellä tasolla, että .....
 
-   test
-   test2
 
-* Käsitteet löytyvät [täältä](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/all_concepts.md)
+
+* Käsitteet löytyvät [täältä](http://jamk-it-ttos1000-gt0.readthedocs.io/en/latest/all_concepts/)
