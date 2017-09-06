@@ -1,8 +1,7 @@
-###Huomio!
+### Syksyn TTOS1000-kurssikokeeseen tulevat käsitteet/aihekokonaisuudet
 
-Käytä [tätä sivua pohjana omille sivuille](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/use-this-file-as-concept-template.md)
-Kopio sisältö "RAW"-muodossa ja luo uusi MarkDown-tiedosto tähän samaan repoon...
-
+Löydät [pohjan omille MarkDown-sivuille täältä](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/use-this-file-as-concept-template.md)
+Kannattaa katsoa läpi [Youtube-video](https://www.youtube.com/watch?v=LdIDsQhxtr0)
 
 | Vast | Kasite 1 | Kasite 2 | Kasite 3 |
 |:-:|:-:|:-:| :-:|
