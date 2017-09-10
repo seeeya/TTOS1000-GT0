@@ -1,4 +1,4 @@
-# Julkaisusuunnittelu (Release Planning)
+# Julkaisusuunnittelu (Release Management)
 
 Kuvauksen kirjoitti: Lauri Moilanen, H9014
 
