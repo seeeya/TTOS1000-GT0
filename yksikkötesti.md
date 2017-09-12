@@ -1,4 +1,4 @@
-# Käsite Yksikkötesti (Unit testing)
+# Yksikkötesti (Unit testing)
 
 Kuvauksen kirjoitti: Timo Heinonen, tunnus H8262
 
