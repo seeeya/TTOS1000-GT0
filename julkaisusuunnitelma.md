@@ -50,5 +50,5 @@ VersionOne:lla on hyvä summaus julkaisusuunnittelusta yleisesti ->
 
 ## Linkit wikin muihin sivuihin
 
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi](https://github.com/JAMKPROJ/TTOS1000-GT0/)
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi](https://github.com/JAMKPROJ/TTOS1000-GT0/) 
+* [Julkaisusuunnittelu](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/julkaisusuunnittelu.md)
+* [Julkaisu](https://github.com/JAMKPROJ/TTOS1000-GT0/julkaisu.md) 
