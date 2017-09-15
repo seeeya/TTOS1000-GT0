@@ -46,7 +46,7 @@ Kannattaa katsoa läpi [Youtube-video](https://www.youtube.com/watch?v=LdIDsQhxt
 | E3 | [Kriittinen polku - Critical Path](Kriittinen-polku) | [Vikatietokanta - Defect Database]() | - |
 | E4 | [Julkaisusuunnitelma - Release Plan](julkaisusuunnitelma)  | [Muutospyynto - Change Request](muutospyynto)  | - |
 | E5 | [Julkaisu - Release](julkaisu-release)) | [vikaraportti - bug report](vikaraportti-bug-report))| - | [Versiohallinta  - version control](versionhallinta) | [Tarkistaminen - Verifiointi)](verifikaatio-verification) | - |
-| E6 | [Konfiguraatiohallinta(configuration management)](konfiguraatiohallinta) | [Kelpuutus (Validation)](kelpuutus) | - |
+| E6 | [Konfiguraatiohallinta(configuration management)](konfiguraatiohallinta) | [Lead Time - Läpivientiaika](leadtime) | - |
 | E7 | [Docker-teknologia - Docker Technology](Docker-kontti) | [Projektisuunnitelma (Project Plan)](Projektisuunnitelma) | - |
 | E8 | [Mikropalvelu - Micro Service](mikropalvelu) | [Riskien hallinta - Risk Management](riskienhallinta) |- |
 | E9 | [Virtuaalikone - Virtual Machine)](vvirtuaalikone) | [Palvelumuotoilija - Service Designer)](palvelumuotoilija) |- |
