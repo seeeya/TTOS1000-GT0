@@ -1,4 +1,4 @@
-# Yksikkotestaus (Unit Testing)
+# Yksikkötestaus (Unit Testing)
 
 Kuvauksen kirjoitti: Rami Ojala, K8412
 
