@@ -4,12 +4,15 @@ Kuvauksen kirjoitti: Timo Heinonen, tunnus H8262
 
 ## Lyhyt kuvaus käsitteestä tai aiheesta
 
-RUP on iteraatinen ohjelmistokehitysprosessi framework, jonka on kehittänyt Rational Software (IBM:n alaisuudessa vuodesta 2003). RUP ei tarjoa yhtä tiettyä perspektiiviä prosessiin, vaan tuotanto-organisaatiot ja ohjelmistoprojekti tiimit voivat valita siitä haluamansa ominaisuudet.
+RUP on iteraatinen ohjelmistokehitysprosessi framework, jonka on kehittänyt Rational Software (IBM:n alaisuudessa vuodesta 2003). RUP ei tarjoa yhtä tiettyä perspektiiviä prosessiin, vaan tuotanto-organisaatiot ja ohjelmistoprojektin tiimit voivat valita siitä haluamansa ominaisuudet.
 
+### Projektin osat
 
-### Historia
+RUP koostuu rakennuspalikoista ja elementeistä, joista selviää mitä ollaan kehittämässä, osaaminen joka täytyy hallita sekä ykistyiskohtainen selvitys siitä miten päästään tavoitteeseen. Pääpalikat ovat:
 
-
+  * Roolit (kuka) - osaaminen, pätevyys ja vastuualueet.
+  * Tuote (mikä) - kuvaa kaikkea, mikä projektin aikana tehdystä työstä, sisältäen kaiken dokumentoinnin.
+  * Tehtävät (miten) - roolille annettu työ, joka edistää projektin kulkua.
 
 ### Projektin vaiheet
 
@@ -17,19 +20,19 @@ RUP on iteraatinen ohjelmistokehitysprosessi framework, jonka on kehittänyt Rat
 
 RUP:ssa projektin elinkaari koostuu neljästä eri vaiheesta:
 
-Alku (Inception)
+#### Alku (Inception)
 
 Päätavoite on arvoioida järjestelmästä syntyvät aloituskustannukset ja budjetit. Myös järjestelmästä odotettu voitto markkinoilla otetaan huomioon. Projekti- ja riskinhallintasuunnitelma laaditaan.
 
-Kehitys (Elaboration)
+#### Kehitys (Elaboration)
 
 Tavoitteena tunnistaa ongelma johon kehitetään ratkaisua sekä perustaa vakaa pohja järjestelmälle. Käyttötapaukset ja kuvaus järjestelmä arkkitehtuurista tulisi olla valmiina. 
 
-Toteutus (Construction)
+#### Toteutus (Construction)
 
 Tässä projektin vaiheessa kaikki tarvittavat komponentit ja ominaisuudet koodataan ja integroidaan järjestelmään.
 
-Siirtymä (Transition)
+#### Siirtymä (Transition)
 
 Tavoite on saada tuote loppukäyttäjälle. Yleensä tässä vaiheessa käyttäjät nostavat esiin uusia ongelmia, jotka korjataan lopulliseen tuotteeseen.
 
