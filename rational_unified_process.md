@@ -11,7 +11,7 @@ RUP on iteraatinen ohjelmistokehitysprosessi framework, jonka on kehittänyt Rat
 RUP koostuu rakennuspalikoista ja elementeistä, joista selviää mitä ollaan kehittämässä, osaaminen joka täytyy hallita sekä ykistyiskohtainen selvitys siitä miten päästään tavoitteeseen. Pääpalikat ovat:
 
   * Roolit (kuka) - osaaminen, pätevyys ja vastuualueet.
-  * Tuote (mikä) - kuvaa kaikkea, mikä projektin aikana tehdystä työstä, sisältäen kaiken dokumentoinnin.
+  * Tuote (mikä) - kuvaa kaikkea projektin aikana tehdystä työstä, sisältäen kaiken dokumentoinnin.
   * Tehtävät (miten) - roolille annettu työ, joka edistää projektin kulkua.
 
 ### Projektin vaiheet
