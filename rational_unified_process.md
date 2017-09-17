@@ -2,7 +2,7 @@
 
 Kuvauksen kirjoitti: Timo Heinonen, tunnus H8262
 
-## Lyhyt kuvaus käsitteestä tai aiheesta
+## Yleistä
 
 RUP on iteraatinen ohjelmistokehitysprosessi framework, jonka on kehittänyt Rational Software (IBM:n alaisuudessa vuodesta 2003). RUP ei tarjoa yhtä tiettyä perspektiiviä prosessiin, vaan tuotanto-organisaatiot ja ohjelmistoprojektin tiimit voivat valita siitä haluamansa ominaisuudet.
 
