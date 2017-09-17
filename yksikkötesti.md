@@ -6,7 +6,7 @@ Kuvauksen kirjoitti: Timo Heinonen, tunnus H8262
 
 Yksikkötestaus on lähdekoodin ykittäisten osien testaamista. Sillä pyritään tarkistamaan ovatko koodin ykisttäiset osat, funktiot, moduulit käyttökelpoisia ja auttaa varmistamaan, että tietyt koodin funktiot palauttavat oikeita arvoja ja ne pystyvät käsittelemään virheitä oikein. Yksikkötestausta voidaan tehdä manuaalisesti, mutta se on yleensä automatisoitu.
 
-![Mahdollinen kuva](https://openclipart.org/image/300px/svg_to_png/223866/Reading-Story-Book-To-Kids.png&disposition=attachment)
+![Mahdollinen kuva](http://www.online-testautomation.com/wp-content/uploads/2017/04/unity.png)
 
 
 ### Haitat
