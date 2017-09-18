@@ -4,7 +4,7 @@ Kuvauksen kirjoitti: Rami Ojala, K8412
 
 ## Lyhyt kuvaus
 
-Versionhallinnassa, Haara, eli Branch on kopio jostain toisesta haarasta (tai Master Branch), johon ollaan vapaita tekemään muutoksia vaikuttamatta haaraan joka ollaan kopioitu. Brancheja käytetään, jotta voidaan koodata useita ominaisuuksia samanaikaisesti (tai debugata ja korjata useita virheitä samanaikaisesti). Yksinkertaisessa Git Workflow:ssa haaraudutaan suoraan Masterista kun aletaan tehdä uutta ominaisuutta, kun ominaisuus on valmis, pullataan Masteri vielä uudestaan siltä varalta, että Masteriin on tullut muutoksia, sitten testataan että mikään ei mennyt rikki ja pusketaan ominaisuus haara takaisin Masteriin.
+Versionhallinnassa, Haara, eli Branch on kopio jostain toisesta haarasta (tai Master Branch), johon ollaan vapaita tekemään muutoksia vaikuttamatta haaraan joka ollaan kopioitu. Brancheja käytetään, jotta voidaan koodata useita ominaisuuksia samanaikaisesti (tai debugata ja korjata useita virheitä samanaikaisesti). Yksinkertaisessa Git Workflow:ssa,  kun aletaan tehdä uutta ominaisuutta, haaraudutaan suoraan Masterista, kun ominaisuus on valmis, pullataan Masteri vielä uudestaan siltä varalta, että Masteriin on tullut muutoksia, sitten testataan että mikään ei mennyt rikki ja pusketaan ominaisuus haara takaisin Masteriin.
 
 ## Esimerkkejä
 
