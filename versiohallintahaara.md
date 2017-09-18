@@ -10,7 +10,7 @@ Versionhallinnassa, Haara, eli Branch on kopio jostain toisesta haarasta (tai Ma
 
 Master Branch, sisältää testatun ja toimivaksi todetun koodin. Joissain Git Workflow:ssa tästä haarasta, haaraudutaan Release 1.0, 1.1, ... n, 2.0 haaroihin.
 
-Test Branch, Tämä haara sisältää koodin, joka on valmiina Hyväksyntä testaukseen. Hyväksyntä testauksen läpäistyä tämä mergetään masterrin.
+Test Branch, Tämä haara sisältää koodin, joka on valmiina Hyväksyntä testaukseen. Hyväksyntä testauksen läpäistyä tämä mergetään Masteriin.
 
 Development Branch, Tämä haara sisältää testaamattoman valmiin koodin.
 
