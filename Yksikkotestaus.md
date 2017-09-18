@@ -14,7 +14,6 @@ Yksikkötestauksen avulla pyritään siis mimimoimaan virheitä osien summassa, 
 
 Summa funktioita voitaisiin yksikkötestata siten, että palautetaan summa funktion summa toiseen muuttujaan ja sijoitetaan ennalta tiedetty vastaus toiseen muuttujaan ja verrataan näitä, niin monta kertaa kun testaaja on ennalta määritellyt.
 
-![Mahdollinen kuva](https://fraktio.fi/wp-content/uploads/2013/12/lamantesti.png)
 
 ## Swap funktio C kielessä
 
