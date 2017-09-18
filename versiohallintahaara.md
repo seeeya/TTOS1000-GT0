@@ -20,14 +20,10 @@ Issue (Hotfix) Branch, Tämä haara, riippuen Workflow:sta vedetään Master Bra
 
 ## Lähteitä liittyen aiheeseen
 
-Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
-
 * [Git Branching and Merging Strategies (24:16))](https://www.youtube.com/watch?v=to6tIdy5rNc)
 * [Atlassian Stash - Git workflows in the Enterprise (36:05))](https://youtu.be/gLWSJXBbJuE)
 * [Wikipedia artikkeli](https://en.wikipedia.org/wiki/Branching_(version_control))
 
 ## Linkit wikin muihin sivuihin
-
-Kerää tähän sivut wikin sisältä, jotka mielestäsi liittyvät kuvaamaasi käsitteeseen/aiheeseen
 
 * [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
