@@ -24,7 +24,7 @@ Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
 
 * [Git Branching and Merging Strategies (24:16))](https://www.youtube.com/watch?v=to6tIdy5rNc)
 * [Atlassian Stash - Git workflows in the Enterprise (36:05))](https://youtu.be/gLWSJXBbJuE)
-* [Wikipedia linkki Branchista](https://en.wikipedia.org/wiki/Branching_(version_control)
+* [Wikipedia linkki Branchista](https://en.wikipedia.org/wiki/Branching_(version_control))
 
 ## Linkit wikin muihin sivuihin
 
