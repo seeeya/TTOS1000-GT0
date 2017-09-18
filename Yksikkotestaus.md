@@ -1,4 +1,4 @@
-# Yksikkötestaus (Unit Testing)
+# Yksikkotestaus (Unit Testing)
 
 Kuvauksen kirjoitti: Rami Ojala, K8412
 
@@ -13,7 +13,6 @@ Yksikkötestauksen avulla pyritään siis mimimoimaan virheitä osien summassa, 
 ## Summa funktio
 
 Summa funktioita voitaisiin yksikkötestata siten, että palautetaan summa funktion summa toiseen muuttujaan ja sijoitetaan ennalta tiedetty vastaus toiseen muuttujaan ja verrataan näitä, niin monta kertaa kun testaaja on ennalta määritellyt.
-
 
 ## Swap funktio C kielessä
 
@@ -30,7 +29,4 @@ Tätä voitaisiin testata esimerkiksi varastoimalla tiedot muuttujista A ja B mu
 
 ## Linkit wikin muihin sivuihin
 
-Kerää tähän sivut wikin sisältä, jotka mielestäsi liittyvät kuvaamaasi käsitteeseen/aiheeseen
-
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
 * [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
