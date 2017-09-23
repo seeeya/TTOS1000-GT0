@@ -11,7 +11,7 @@ Määritellään myös mikä on päätepiste, milloin projekti on valmis.
 Tämän jälkeen voidaan laskea, milloin tietyt työtehtävät on pitää viimeistään ja aikaisintaan aloittaa. 
 "Kriittinen polku" on ajallisesti pisin jono työtehtäviä, jotka riippuvat edellisten suorittamisesta. 
 Tehtävät jotka eivät ole ollenkaan kriittisiä, ovat "kelluvia" eli niiden aloittamista voidaan viivyttää ilman, että projekti pitenee.
-Kriittistä polkua tutkimalla voidaan selvittää projektin "pisin" ja "lyhyin" kesto.
+Kriittistä polkua tutkimalla voidaan selvittää projektin "pisin" ja "lyhin" kesto.
 
 
 ![Mahdollinen kuva](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/SimpleAONwDrag3.png/800px-SimpleAONwDrag3.png)
