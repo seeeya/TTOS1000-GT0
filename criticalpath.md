@@ -23,7 +23,8 @@ Yhdenkin tehtävän venyminen voi vaikuttaa merkittävästi projektin kestoon.
 
 ## Lähteitä liittyen aiheeseen
 
-[What is unit testing?](https://code.tutsplus.com/articles/the-beginners-guide-to-unit-testing-what-is-unit-testing--wp-25728)
+[What Is the Critical Path Method (CPM)?](https://www.smartsheet.com/critical-path-method)
+[Wikipedia: Critical Path Method](https://en.wikipedia.org/wiki/Critical_path_method)
 
 ## Linkit wikin muihin sivuihin
 
