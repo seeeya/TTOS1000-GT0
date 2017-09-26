@@ -26,4 +26,5 @@ Issue (Hotfix) Branch, Tämä haara, riippuen Workflow:sta vedetään Master Bra
 
 ## Linkit wikin muihin sivuihin
 
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
+* [Ylläpito](yllapito.md)
+* [Ominaisuus/piirre - Feature](ominaisuuus-feature.md)
