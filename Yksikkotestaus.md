@@ -29,4 +29,5 @@ Tätä voitaisiin testata esimerkiksi varastoimalla tiedot muuttujista A ja B mu
 
 ## Linkit wikin muihin sivuihin
 
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
+* [Virhe](Virhe.md)
+* [Vianhallinta](vianhallinta.md)
