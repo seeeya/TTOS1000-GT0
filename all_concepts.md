@@ -22,7 +22,7 @@
 | B4 | [Ei-toiminnnallinen vaatimus - Non functional requirement](Ei-toiminnalinen-vaatimus) | [Reverse Engineering](Reverse-Engineering) | - |
 | B5 | [Vaatimusten jaljitettavyys - (Traceability)](traceability) | [Six Sigma](six-sigma) |- |
 | B6 | [Tyotarina - Job Story](tyotarina) | [LEAN](lean-six-sigma) | - |
-| B7 | [Kayttajatarina - User Story](kayttajatarina) | [Just in Time - JIT](just-in-time) | - |
+| B7 | [Kayttajatarina - User Story](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/userstory.md) | [Just in Time - JIT](just-in-time) | - |
 | B8 | [Kayttötapaus - Use Case ](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/kayttotapaus.md) | [Lapimenoaika - Lead time](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/lapimenoaika.md) | - |
 | B9 | [UML - Unified Modeling Language](UML) | [Arvovirtakuvaus -Value Stream Map](arvovirtakuvaus) | - |
 | C1 | [Palvelumuotoilu - Service Design](Palvelumuotoilu) | [Agile Theme](Agile-Theme) |- |
