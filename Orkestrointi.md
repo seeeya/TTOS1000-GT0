@@ -10,7 +10,7 @@ Orkestroinnin tavoitteena on yhdistää useampi teknologia ja prosessi yhdeksi k
 
 ### Orkestrointi pilvipalvelussa
 ![alt text](http://slideplayer.fi/slide/1973612/7/images/15/Tietoj%C3%A4rjestelm%C3%A4palvelujen+orkestraatio.jpg "orkestraatio")
-Pilvipalvelun "Orkestroija" hallinnoi 
+Kuvasta voidaan havainnoida orkestrointikerroksen toimivan välikätenä sekä loppukäyttäjän että järjestelmän välillä. Orkestrointi ohjaa toiminnallisuutta eri kerroksien välillä oikealla tavalla
 
 ## Lähteitä liittyen aiheeseen
 
