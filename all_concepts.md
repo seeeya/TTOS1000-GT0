@@ -9,7 +9,7 @@
 |:-:|:-:|:-:| :-:|
 | A1 | [Asiakas - Customer](asiakas) | [Versionumerointi](versionumerointi) | - |
 | A2 | [Tuoteaallikko - Product Manager](Tuotepaallikko) | [Palvelun monitorointi - Service monitoring)](Monitorointi) | - |
-| A3 | [Tuoteomistaja - Product Owner](tuoteomistaja) | [Orkestrointi - Service Orchestration)](orkestrointi) | - |
+| A3 | [Tuoteomistaja - Product Owner](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Tuoteomistaja.md) | [Orkestrointi - Service Orchestration)](orkestrointi) | - |
 | A4 | [Testauspaallikko - Test Manager)](testauspaallikko) | [Dokumentinhallinta - Document Management)](dokumentinhallinta) | - |
 | A5 | [Ohjelmoija - Programmer](ohjelmoija) | [Dokumentin metatietomalli - Document Metamodel](dokumenttien-metamallit) | - |
 | A6 | [Ohjelmistoarkkitehti (Software architech)](ohjelmistoarkkitehti-(Software-architech)) | [Vesiputousmalli - Waterfall- model](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/waterfall-model.md) |  - |
