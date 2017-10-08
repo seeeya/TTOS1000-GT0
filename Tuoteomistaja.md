@@ -6,7 +6,7 @@ Kuvauksen kirjoitti: Jere-Joonas Valtanen, K1909
 
 Tuoteomistaja on yleensä yksittäinen henkilö, joka hoitaa roolia täyspäiväisesti.
 
-Tuotemistajan tärkein tehtävä on hallinnoida kehitysjonoa (product backlog), jonka kautta hän myös vastaa kehitystiimin työstä ja tuotteen arvon maksimoinnista.
+Tuoteomistajan tärkein tehtävä on hallinnoida kehitysjonoa (product backlog), jonka kautta hän myös vastaa kehitystiimin työstä ja tuotteen arvon maksimoinnista.
 Kehitysjonossa tuoteomistaja pyrkii varmistamaan kehitysjonon kohtien selkeyttä ja tarkoituksenmukaisuutta sekä priorisoida kohtia joilla tuotteen arvoa saadaan lisättyä mahdollisimman tehokkaasti.'
 Tällä tavalla kehitystiimi voi aina luottaa ottaessaan kehitysjonon ylimmän kohdan työn alle että tiimin panostus menee sillä hetkellä projektin tärkeimpään asiaan.
 
