@@ -16,14 +16,14 @@ Orkestrointikerros toimiii loppukäyttäjän ja varsinaisen järjestelmäkerroks
 
 Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
 
-* Fusce tincidunt quis mauris [cursus vulputate](https://fi.wiktionary.org/wiki/aikarauta)
-* In tellus libero, sollicitudin nec volutpat a, 
-* bibendum ac nisi. Morbi eget est est. Vivamus non dignissim nisi, quis tempor magna. Pellentesque sollicitudin hendrerit neque, in molestie sapien porttitor aliquam. Pellentesque facilisis tellus ligula, ut egestas eros commodo ut. Nulla facilisi.
+https://gofore.com/tyokalupakkisi-onnistuneeseen-devopsiin/  
+https://www.mulesoft.com/resources/esb/service-orchestration-and-soa  
+https://automic.com/blog/what-service-orchestration  
+http://www.ciena.com/insights/what-is/what-is-service-orchestration.html  
+
+Tästä aiheesta on verkossa saatavilla hyvin vähän tietoa suomeksi
 
 
 ## Linkit wikin muihin sivuihin
 
-Kerää tähän sivut wikin sisältä, jotka mielestäsi liittyvät kuvaamaasi käsitteeseen/aiheeseen
-
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]() 
+TBA
