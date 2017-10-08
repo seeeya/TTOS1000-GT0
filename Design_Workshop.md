@@ -3,7 +3,7 @@ Kirjoitti: Joeli Pikkarainen H8897
 
 ## Lyhyt Kuvas
 
-Suunnittelu työpaja on työympäristö, missä  ammattilaiset eri aloilta
+Suunnittelutyöpaja on työympäristö, missä  ammattilaiset eri aloilta
 jakavat ammattitaitonsa ja ideoivat yhdessä. Tarkoituksena on käyttää hyväksi
 ja tuoda esille joka jäsenen omat taitonsa, vahvuutensa ja persoonalliset
 kokemuksensa. 
