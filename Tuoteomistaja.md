@@ -24,8 +24,8 @@ Tuoteomistaja priorisoi kehitysjonon kohtia ja asettaa tärkeimmät kohdat sprin
 
 ## Lähteitä liittyen aiheeseen
 
-https://www.codento.fi/2017/02/tuoteomistajan-scrum-pikaopas/
-http://trc.utu.fi/embedded/kasikirja/3/10/
+https://www.codento.fi/2017/02/tuoteomistajan-scrum-pikaopas/  
+http://trc.utu.fi/embedded/kasikirja/3/10/  
 https://blogs.aalto.fi/itainnovaatiopalvelu/2011/11/01/scrum-ja-tuoteomistajan-rooli/
 
 ## Linkit wikin muihin sivuihin
