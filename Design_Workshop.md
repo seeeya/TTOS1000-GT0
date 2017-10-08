@@ -1,7 +1,7 @@
 # Design Workshop (Suunnittelutyöpaja)
 Kirjoitti: Joeli Pikkarainen H8897
 
-##Lyhyt Kuvas
+## Lyhyt Kuvas
 
 Suunnittelu työpaja on työympäristö, missä  ammattilaiset eri aloilta
 jakavat ammattitaitonsa ja ideoivat yhdessä. Tarkoituksena on käyttää hyväksi
@@ -18,5 +18,5 @@ Videolinkissä on hyvä esimerkki suunnittelutyöpajan toiminnasta.
 
 
 
-##Lähteet
+## Lähteet
 https://www.youtube.com/watch?v=Z4gAugRGpeY
