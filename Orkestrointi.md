@@ -9,7 +9,7 @@ Orkestroinnin tavoitteena on yhdistää useampi teknologia ja prosessi yhdeksi k
 ## Esimerkkejä
 
 ### Orkestrointi pilvipalvelussa
-![alt text](http://slideplayer.fi/slide/1973612/7/images/15/Tietoj%C3%A4rjestelm%C3%A4palvelujen+orkestraatio.jpg "orkestraatio)
+![alt text](http://slideplayer.fi/slide/1973612/7/images/15/Tietoj%C3%A4rjestelm%C3%A4palvelujen+orkestraatio.jpg "orkestraatio")
 Pilvipalvelun "Orkestroija" hallinnoi 
 
 ## Lähteitä liittyen aiheeseen
