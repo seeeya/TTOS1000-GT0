@@ -18,7 +18,7 @@ Tuoteomistaja toimii linkkinä projektin eri sidosryhmien välillä, kommunikoid
 
 Tuoteomistaja on ainoa kehitysjonoa suoraan hallinnoiva henkilö, mutta hallinnointipäätöksiin vaikuttavat useat eri sidosryhmät tiimistä asiakkaaseen.
 Tuoteomistaja priorisoi kehitysjonon kohtia ja asettaa tärkeimmät kohdat sprintin tavoitteeksi.  
--> Tiimi antaa sprintin aikana palautetta sprintin tavoitteista ja kehitysjonoa muokataan mahdollisesti tiimin toiveiden mukaisesti. 
+-> Tiimi antaa sprintin aikana palautetta sprintin tavoitteista ja kehitysjonoa muokataan mahdollisesti tiimin toiveiden mukaisesti.  
 -> Sprintin lopussa demon jälkeen asiakas mahdollisesti pyytää jonkin ominaisuuden seuraavaan sprinttiin, ja jälleen tueteomistaja reagoi sidosryhmien toiveiden mukaisesti priorisoiden pyydettyä kohtaa tuotejonossa.
 
 
