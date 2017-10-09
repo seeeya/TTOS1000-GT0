@@ -4,7 +4,9 @@ Jere-Joonas Valtanen, K1909
 
 ## Kuvaus
 
-Orkestroinnin tavoitteena on yhdistää useampi teknologia ja prosessi yhdeksi kokonaisuudeksi. Orkestroimalla voidaan sitoa yhteen useita komponentteja saaden aikaan kokonainen palvelu. 
+Modernit sovellukset koostuvat usein useasta eri komponentista. Orkestroinnissa tuodaan erilliset komponentit yhteen muodostaen yhtenäinen kokonaisuus. Tuote koostuu usein useista osioista kuten Back end, front end, tietokannat yms. 
+
+Sovellus tulee voida käynnistää yhtä nappia painaen joka käynnistää kaikki komponentit ja luo yhteyden niiden välille. Orkestraattorin tehtävänä on varmistaa että sovelluksen osat käynnistyvät ja toimivat oikeassa järjestyksessä. Se siis toimii komponenttien välisenä tahdittajana.
 
 ## Esimerkkejä
 
@@ -14,14 +16,10 @@ Orkestrointikerros toimiii loppukäyttäjän ja varsinaisen järjestelmäkerroks
 
 ## Lähteitä liittyen aiheeseen
 
-Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
-
 https://gofore.com/tyokalupakkisi-onnistuneeseen-devopsiin/  
 https://www.mulesoft.com/resources/esb/service-orchestration-and-soa  
 https://automic.com/blog/what-service-orchestration  
 http://www.ciena.com/insights/what-is/what-is-service-orchestration.html  
-
-Tästä aiheesta on verkossa saatavilla hyvin vähän tietoa suomeksi
 
 
 ## Linkit wikin muihin sivuihin
