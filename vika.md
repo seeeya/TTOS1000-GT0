@@ -1,8 +1,8 @@
-### Vika - Bug
+# Vika - Bug
 
 Kuvauksen kirjoitti: Carita Tammelin, K7710
 
-### Mikä on vika
+## Mikä on vika
 
 Vika eli bugi tarkoittaa ohjelmistossa esiintyvää ongelmaa, 
 joka aiheuttaa sen virheellisen toiminnan tai kaatumisen. Vika voi olla myös ohjelman tietoturvassa,
@@ -13,7 +13,7 @@ se sisältää virheitä.
 
 Viat voi välttää kunnollisella testauksella. 
 
-## Hauska fakta
+### Hauska fakta
 
 Englanninkielinen termi bug sai alkunsa vuonna 1945, kun USA:n merivoimien virkailija Grace Hopper löysi 
 kesken työskentelyn yökkösen laitteiston välistä. Kyseiset ötökät lensivät lämmön perässä koneiden sisälle
@@ -21,7 +21,7 @@ aiheuttaen niiden vikatiloja. Vaikka termiä oli käytetty aiemmin, se nousi suo
 jälkeen, jossa hän kertoi ensimmäisestä löydetystä "bugista". 
 
 
-## Lähteet
+### Lähteet
 
  * https://www.techopedia.com/definition/24864/software-bug-
  * https://www.pcmag.com/encyclopedia/term/51664/software-bug
