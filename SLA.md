@@ -9,13 +9,12 @@ velvollisuudet tarjoamansa palvelun sisällöstä. Sen tehtävänä on varmistaa
 saa ostamansa palvelun sellaisena kuin se on luvattu. 
 
 SLA sisältää esimerkiksi:
-
-	* Kuvauksen palvelun teknisistä tiedoista
-	* Miten ja milloin palvelun tarjoajaan otetaan yhteyttä palveluun liittyen
-	* Kuinka ongelmatilanteissa toimitaan
-	* Poikkeukset, joissa palvelun tarjoaja ei ole vastuussa
-	* Mitä palvelun tarjoaja on vastuullinen korvaamaan ja miten
-	* Aika, jona palvelu on käytettävissä
+* Kuvauksen palvelun teknisistä tiedoista
+* Miten ja milloin palvelun tarjoajaan otetaan yhteyttä palveluun liittyen
+* Kuinka ongelmatilanteissa toimitaan
+* Poikkeukset, joissa palvelun tarjoaja ei ole vastuussa
+* Mitä palvelun tarjoaja on vastuullinen korvaamaan ja miten
+* Aika, jona palvelu on käytettävissä
 	
 
 ### Lähteet
