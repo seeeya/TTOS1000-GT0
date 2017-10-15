@@ -6,7 +6,8 @@ Kuvauksen kirjoitti: Carita Tammelin, K7710
 
 SLA on sopimus palvelun tarjoajan ja loppukäyttäjän välillä, joka määrittää palvelun tarjoajan
 velvollisuudet tarjoamansa palvelun sisällöstä. Sen tehtävänä on varmistaa, että loppukäyttäjä
-saa ostamansa palvelun sellaisena kuin se on luvattu. 
+saa ostamansa palvelun sellaisena kuin se on luvattu. SLA on kuitenkin myös turvana palvelun tarjoajalle, 
+koska se määrittää missä tilanteissa palvelun tarjoaja ei ole velvollinen palvelun virheellisyydestä.
 
 SLA sisältää esimerkiksi:
 * Kuvauksen palvelun teknisistä tiedoista
@@ -15,7 +16,7 @@ SLA sisältää esimerkiksi:
 * Poikkeukset, joissa palvelun tarjoaja ei ole vastuussa
 * Mitä palvelun tarjoaja on vastuullinen korvaamaan ja miten
 * Aika, jona palvelu on käytettävissä
-	
+
 
 ### Lähteet
  * https://www.paloaltonetworks.com/cyberpedia/what-is-a-service-level-agreement-sla
