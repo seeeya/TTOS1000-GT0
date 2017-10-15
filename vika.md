@@ -23,6 +23,6 @@ jälkeen, jossa hän kertoi ensimmäisestä löydetystä "bugista".
 
 ## Lähteet
 
-https://www.techopedia.com/definition/24864/software-bug-
-https://www.pcmag.com/encyclopedia/term/51664/software-bug
-https://thenextweb.com/shareables/2013/09/18/the-very-first-computer-bug/
+ * https://www.techopedia.com/definition/24864/software-bug-
+ * https://www.pcmag.com/encyclopedia/term/51664/software-bug
+ * https://thenextweb.com/shareables/2013/09/18/the-very-first-computer-bug/
