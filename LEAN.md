@@ -32,9 +32,17 @@ Meidän on ymmärrettävä miten lisäämme prosessimme arvoa suoraan raaka-aine
 
 ![](http://leanmanufacturingtools.org/wp-content/uploads/2011/06/7-wastes2.gif)
 
+## Jatkuva parantaminen
+
+Jatkuva parantaminen (jota yleisesti viitataan japanilaisella kaizen-sanalla) on epäilemättä kaikkein kriittisin periaate LEAN-tuotteiden valmistuksessa. Sen pitäisi muodostaa perusta LEAN täytäntöönpanolle. Ilman jatkuvaa parannusta edistyminen lakkaa. Kuten nimestä käy ilmi, jatkuva parantaminen edistää jatkuvaa, välttämättömää muutosta halutun tilan saavuttamiseksi. Muutokset voivat olla suuria tai pieniä, mutta niiden on kyettävä edistämään parannusta (usein tarvitaan pieniä muutoksia tavoitteen saavuttamiseksi). Prosessi on todella jatkuvaa, sillä aina on parantamisen varaa.
+
+Jatkuvan parantamisen tulisi olla mielentila koko organisaatiossa. Älä yritä löytää vain suuria ideoita. Pienet ideat usein antavat suuria parannuksia.
+
 ## Lähteet
 
 - [http://leanmanufacturingtools.org/34/lean-manufacturing-definition-2/](http://leanmanufacturingtools.org/34/lean-manufacturing-definition-2/)
+
+- [http://www.lean-manufacturing-junction.com/lean-manufacturing-principles.html](http://www.lean-manufacturing-junction.com/lean-manufacturing-principles.html)
 
 ## Aiheeseen liittyvää
 
