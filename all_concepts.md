@@ -52,7 +52,7 @@
 | E7 | [Docker-teknologia - Docker Technology](Docker-kontti) | [Projektisuunnitelma (Project Plan)](Projektisuunnitelma) | - |
 | E8 | [Mikropalvelu - Micro Service](mikropalvelu) | [Riskien hallinta - Risk Management](riskienhallinta) |- |
 | E9 | [Virtuaalikone - Virtual Machine)](vvirtuaalikone) | [Palvelumuotoilija - Service Designer)](palvelumuotoilija) |- |
-| F1 | [Vagrant-teknologia - Vagrant technology](vagrant-technology) | [Ohjelmistotuotanto](Ohjelmistotuotanto) |
+| F1 | [Vagrant-teknologia - Vagrant technology](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Vagrant-teknologia.md) | [Ohjelmistotuotanto](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Ohjelmistotuotanto.md) |
 | F2 | [Systeemi ajattelu - System Thinking](systeemiajattelu) | [ohjelmistotestaaja - software tester](ohjelmistotestaaja)  | 
 | F3 | [Prosessin omistaja - Process owner](prosessinomistaja) | [Kettera kehittaminen - agile development](kettera-kehittaminen) | - |
 | F4 | [Ohjelmiston elinkaarimalli](ohjelmiston-elinkaarimalli) | [Jatkuva Suunnittelu - Continuous Planning](continuous-planning) | - |
