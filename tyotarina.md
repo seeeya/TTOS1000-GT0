@@ -131,3 +131,15 @@ Odotettu lopputulos:
 
 _Asuntolaina annettaisiin nopeasti pienen riskin omaavalle henkilölle, josta pankki uskoo hyötyvänsä._
 
+## Lähteet
+
+- [https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
+
+- [https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9](https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9)
+
+- [https://www.slideshare.net/maukoquiroga/from-user-stories-to-job-stories-with-examples](https://www.slideshare.net/maukoquiroga/from-user-stories-to-job-stories-with-examples)
+
+## Aiheeseen liittyvää
+
+[https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/userstory.md](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/userstory.md)
+
