@@ -1,44 +1,34 @@
 # Käsite XYZÖÄ
 
-Kuvauksen kirjoitti: Mauri Bosse, tunnus X1234
+Kuvauksen kirjoitti: Sampsa Kautto K2427
 
 ## Lyhyt kuvaus käsitteestä tai aiheesta
 
-**Käytä tätä sivua pohjana omalle wiki-sivulle! Älä muokkaa tätä, vaan tee siitä kopio!**
+Versionumeroinnilla voidaan seurata ohjelmiston kehityksen askeleita ja onko ohjelmastamenossa mones versio vai onko kyseiseen versioon tehty päivytyksiä tai pieniä korjauksia.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mauris dolor, semper egestas justo nec, dapibus porta risus. Mauris ultrices, felis et pretium dapibus, erat turpis gravida ipsum, eget semper ex ante sit amet magna. Nulla eget lorem orci. Integer a erat ante. In sodales sollicitudin tempus. Vestibulum consequat, sapien nec efficitur hendrerit, orci sapien dignissim metus, sed volutpat nisl ligula sit amet magna. 
+![Mahdollinen kuva1](https://wiki.eclipse.org/images/7/71/Plugin-versioning-fig1.jpg)
 
-![Mahdollinen kuva1](https://upload.wikimedia.org/wikipedia/commons/0/00/VersionNumbers.svg)
-
-
-
-Mauris vitae nibh nec leo iaculis efficitur. Aenean ut sapien in felis dignissim venenatis nec ac ipsum. Donec odio massa, vehicula vel quam non, consequat facilisis quam. Donec cursus convallis sem a rutrum. Ut consequat turpis sed leo iaculis maximus. Vestibulum faucibus vel lacus pharetra congue. Suspendisse potenti.
 
 ### Muuta
-
-Donec cursus convallis sem a rutrum. Ut consequat turpis sed leo iaculis maximus. Vestibulum faucibus vel lacus pharetra congue. Suspendisse potenti. Donec cursus convallis sem a rutrum. Ut consequat turpis sed leo iaculis maximus. Vestibulum faucibus vel lacus pharetra congue. Suspendisse potenti.
-
+Versionumeroinnissa käytetään 2 tai 3 tasoista numerointia. [V.R.P]
+Jossa V kuvastaa version julkaisu numeroa. Tätä kutsutaan myös versionumeroksi.
+R taasen tasonumeroa jota voidaan myös kutsua revisioksi.
+JA P paikka numeroa (patch)
+Tyypillisesti kun ohjelma on valmis tuotanto käyttöön sen versio numeroksi asetetaan 1.0.
+Versionumeroinnille ei ole  määritetty täsmällistä ohjeistusta miten se pitäisi merkitä.
 
 ### Sitä sun tätä
 
-Vivamus lobortis augue at erat ullamcorper maximus. Etiam sit amet augue nec neque porttitor blandit eget ut sem.Vivamus lobortis augue at erat ullamcorper maximus. Etiam sit amet augue nec neque porttitor blandit eget ut sem.
 
-## Esimerkkejä
 
-Cras ullamcorper lacus sit amet nulla tincidunt, ut hendrerit tortor aliquam. Quisque non scelerisque turpis, et ornare purus. [Kannatta upottaaa toisten sivja osaksi omaa teksti](home) Praesent accumsan tortor urna, at elementum massa maximus sagittis. Vivamus lobortis augue at erat ullamcorper maximus. Etiam sit amet augue nec neque porttitor blandit eget ut sem. Aenean aliquet hendrerit eros quis faucibus. Suspendisse gravida sit amet ligula non tempus. Duis in efficitur magna. Proin sollicitudin nulla vel tellus lobortis egestas. Maecenas consectetur non elit vitae tristique. Nunc eget facilisis velit. Mauris cursus augue in tempor sollicitudin. Proin ut tellus sed leo aliquet lacinia. Suspendisse a felis id ante suscipit dictum a et lorem. Praesent vestibulum ligula at vestibulum viverra.
 
-## Lähteitä liittyen aiheeseen
+## Lähteitä
+https://fi.wikipedia.org/wiki/Ohjelmiston_versiohallinta#Versioiden_merkitseminen
+https://wiki.eclipse.org/Version_Numbering
 
-Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
 
-* Fusce tincidunt quis mauris cursus vulputate. 
-* In tellus libero, sollicitudin nec volutpat a, 
-* bibendum ac nisi. Morbi eget est est. Vivamus non dignissim nisi, quis tempor magna. Pellentesque sollicitudin hendrerit neque, in molestie sapien porttitor aliquam. Pellentesque facilisis tellus ligula, ut egestas eros commodo ut. Nulla facilisi.
 
 
 ## Linkit wikin muihin sivuihin
 
-Listaa tähän sivut repositorion sisältä, jotka liittyvät kuvaamaasi käsitteeseen/aiheeseen
 
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]() 
