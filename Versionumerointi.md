@@ -1,4 +1,4 @@
-# Käsite XYZÖÄ
+# Käsite Versionumerointi
 
 Kuvauksen kirjoitti: Sampsa Kautto K2427
 
