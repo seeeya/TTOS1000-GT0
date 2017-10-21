@@ -4,14 +4,8 @@ Kuvauksen kirjoitti: Akseli Koskela, tunnus K6089
 
 ## Lyhyt kuvaus
 
-Käytä tätä sivua pohjana omalle wiki-sivulle! Älä muokkaa tätä, vaan tee siitä kopio!
+*"Me kaikkihan tiedämme, että maailma on täynnä epäonnistuneita ohjelmistoprojekteja. Devaaja kertoo: ”jos saisin yksin koodata kaiken, niin homma menisi täydellisesti maaliin”. Johtaja sanoo vastaan: ”jos homma olisi tehty niin kuin suunnittelin, niin se olisi valmis jo”. Klassinen toisten osoittelun ja syyllistämisen kierre on valmis. Noh, laitetaanpa devaaja johtamaan isoa organisaatiota ja johtaja koodaamaan, niin nurina laantuu molemmissa päissä. Hetken hiljaisuuden jälkeen molemmat ottavat hatun päästä ja kysyvät ”kuinka tämä sitten oikeasti olisi järkevää hoitaa?”. Tästä päästään kokemuksen kautta opittuihin hyviin suunnittelu- ja toimintamalleihin, joita hyödynnetään niin koodauksessa kuin johtamisessa. SAFe (Scaled Agile Framework) poimii näitä hyväksi havaittuja toimintatapoja laidasta laitaan."*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mauris dolor, semper egestas justo nec, dapibus porta risus. Mauris ultrices, felis et pretium dapibus, erat turpis gravida ipsum, eget semper ex ante sit amet magna. Nulla eget lorem orci. Integer a erat ante. In sodales sollicitudin tempus. Vestibulum consequat, sapien nec efficitur hendrerit, orci sapien dignissim metus, sed volutpat nisl ligula sit amet magna. 
-
-![Mahdollinen kuva](https://openclipart.org/image/300px/svg_to_png/223866/Reading-Story-Book-To-Kids.png&disposition=attachment)
-
-
-Mauris vitae nibh nec leo iaculis efficitur. Aenean ut sapien in felis dignissim venenatis nec ac ipsum. Donec odio massa, vehicula vel quam non, consequat facilisis quam. Donec cursus convallis sem a rutrum. Ut consequat turpis sed leo iaculis maximus. Vestibulum faucibus vel lacus pharetra congue. Suspendisse potenti.
 
 ### Muuta
 
