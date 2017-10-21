@@ -11,7 +11,7 @@
 | A2 | [Tuoteaallikko - Product Manager](Tuotepaallikko) | [Palvelun monitorointi - Service monitoring)](Monitorointi) | - |
 | A3 | [Tuoteomistaja - Product Owner](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Tuoteomistaja.md) | [Orkestrointi - Service Orchestration)](orkestrointi) | - |
 | A4 | [Testauspaallikko - Test Manager)](testauspaallikko) | [Dokumentinhallinta - Document Management)](dokumentinhallinta) | - |
-| A5 | [Ohjelmoija - Programmer](ohjelmoija) | [Dokumentin metatietomalli - Document Metamodel](dokumenttien-metamallit) | - |
+| A5 | [Ohjelmoija - Programmer](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/ohjelmoija.md) | [Dokumentin metatietomalli - Document Metamodel](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/metatietomalli.md) | - |
 | A6 | [Ohjelmistoarkkitehti (Software architech)](ohjelmistoarkkitehti-(Software-architech)) | [Vesiputousmalli - Waterfall- model](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/waterfall-model.md) |  - |
 | A7 | [Yksikkötesti](unit-test) | [Rational Unified Process (RUP)](rational-unified-process) | - |
 | A8 | [Tukihenkilo - Support Person](tukihenkilo) | [Katselmointi (Review)](katselmointi) | - |
