@@ -19,7 +19,6 @@ Sovellus tulee voida käynnistää yhtä nappia painaen joka käynnistää kaikk
 
 ### Orkestrointi pilvipalvelussa
 ![alt text](http://slideplayer.fi/slide/1973612/7/images/15/Tietoj%C3%A4rjestelm%C3%A4palvelujen+orkestraatio.jpg "orkestraatio")
-Orkestrointikerros toimiii loppukäyttäjän ja varsinaisen järjestelmäkerroksen välissä.
 
 ## Lähteitä liittyen aiheeseen
 
