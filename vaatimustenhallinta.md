@@ -14,8 +14,8 @@ Käytännössä kaikissa ohjelmistoprojekteissa harjoitetaan jonkinlaista vaatim
 
 ## Lähteitä liittyen aiheeseen
 
-[Laadukas vaatimustenhallinta - Pekka Mäkinen](http://www.softqa.fi/pdf/nohau-200902.pdf) Viitattu 21.10.2017 
-[Requirements Engineering: A Roadmap](http://mcs.open.ac.uk/ban25/papers/sotar.re.pdf) Viitattu 21.10.2017
+* [Laadukas vaatimustenhallinta - Pekka Mäkinen](http://www.softqa.fi/pdf/nohau-200902.pdf) Viitattu 21.10.2017 
+* [Requirements Engineering: A Roadmap](http://mcs.open.ac.uk/ban25/papers/sotar.re.pdf) Viitattu 21.10.2017
 
 
 ## Linkit wikin muihin sivuihin
