@@ -22,3 +22,4 @@ Käytännössä kaikissa ohjelmistoprojekteissa harjoitetaan jonkinlaista vaatim
 
 * [Functional requirement](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/functional-requirement.md)
 * [Non-functional requirement](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/non-functional-requirement.md)
+* [Application Lifecycle Management](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/application-lifecycle-management.md)
