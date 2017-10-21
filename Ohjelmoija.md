@@ -4,25 +4,27 @@ Kuvauksen kirjoitti: Juuso Jokio, tunnus K2352
 
 ## Lyhyt kuvaus käsitteestä tai aiheesta
 
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mauris dolor, semper egestas justo nec, dapibus porta risus. Mauris ultrices, felis et pretium dapibus, erat turpis gravida ipsum, eget semper ex ante sit amet magna. Nulla eget lorem orci. Integer a erat ante. In sodales sollicitudin tempus. Vestibulum consequat, sapien nec efficitur hendrerit, orci sapien dignissim metus, sed volutpat nisl ligula sit amet magna. 
-
-![Mahdollinen kuva1](https://openclipart.org/image/300px/svg_to_png/223866/Reading-Story-Book-To-Kids.png&disposition=attachment)
-
-
-
-Mauris vitae nibh nec leo iaculis efficitur. Aenean ut sapien in felis dignissim venenatis nec ac ipsum. Donec odio massa, vehicula vel quam non, consequat facilisis quam. Donec cursus convallis sem a rutrum. Ut consequat turpis sed leo iaculis maximus. Vestibulum faucibus vel lacus pharetra congue. Suspendisse potenti.
+Ohjelmoija on ihminen joka tekee itse koodaamalla tietokoneohjelmia.
+Koodaamisen lisäksi ohjelmoijat testaavat sekä huoltaa koodia debuggaamalla.
+ohjelmoija on tavallisesti töissä tietotekniikan yrityksessä.
+ Heidän päätoiminen työnsä on rakentaa uusia tai kehittää
+jo käytössä olevia ohjelmistokokonaisuuksia.
 
 ### Muuta
-
+Ohjelmoijat voivat keskittyä myös tiettyihin osa-alueisiin.
+Front-end ohjelmoijat keskittyvät siihen mitä asiakas näkee kun ohjelmaa käytetään.
+Back-end ohjelmoija tekee näihin liittyvät toiminnallisuudet.
 
 ### Sitä sun tätä
 
 Vivamus lobortis augue at erat ullamcorper maximus. Etiam sit amet augue nec neque porttitor blandit eget ut sem.Vivamus lobortis augue at erat ullamcorper maximus. Etiam sit amet augue nec neque porttitor blandit eget ut sem.
 
 ## Esimerkkejä
-
+Herra X menee verkkokaupan sivulle ostamaan itselleen olutta.
+Front-end ohjelmoija on tehnyt selkeän sivuston jota on helppo käyttää.
+Herra X on tilannut oluen verkkokaupasta.
+Back-endin ansiosta tilaus on saatu talteen ja pystytään käsittelemään.
+Herra X saa olutta ja kaikki on hyvin.
 ## Lähteitä liittyen aiheeseen
 
 Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
