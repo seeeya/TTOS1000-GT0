@@ -14,8 +14,8 @@ Metatiedot jaotellaan kolmeen eri ryhmään:
 3. Rakenteellinen metatieto esim  rakenne
 
 ## Esimerkkejä
-Esimerkki dokumentin nimeämisestä. yleinen tapa nimetä dokumentteja on vuosi-asiayhteys-kirjoittaja-tiedostotunniste
- "2017-metatietomalli-jokio-juuso.md
+Esimerkki dokumentin nimeämisestä. yleinen tapa nimetä dokumentteja on vuosi-asiayhteys-kirjoittaja-tiedostotunniste: <br />
+ "2017-metatietomalli-jokio-juuso.md <br />
  myös versionumerointi on metatietoa
  
 ## Lähteitä liittyen aiheeseen
