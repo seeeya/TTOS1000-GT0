@@ -37,7 +37,5 @@ Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
 
 ## Linkit wikin muihin sivuihin
 
-Listaa tähän sivut repositorion sisältä, jotka liittyvät kuvaamaasi käsitteeseen/aiheeseen
-
-* [https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Asiakas.md](Asiakas)
+* [Asiakas](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Asiakas.md)
 
