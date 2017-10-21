@@ -20,7 +20,5 @@ Käytännössä kaikissa ohjelmistoprojekteissa harjoitetaan jonkinlaista vaatim
 
 ## Linkit wikin muihin sivuihin
 
-Listaa tähän sivut repositorion sisältä, jotka liittyvät kuvaamaasi käsitteeseen/aiheeseen
-
 * [Functional requirement](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/functional-requirement.md)
 * [Non-functional requirement](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/non-functional-requirement.md)
