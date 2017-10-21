@@ -13,6 +13,8 @@ Projektipäällikkö toimii usein asiakkaan edustajana, jonka takia hän pyrkii 
 Parhaan mahdollisen kompromissin löytäminen, käytettävien  resurssimuuttujan kesken: aika, kustannukset ja laatu, kuuluu projektipäällikön tehtäviin.
 
 
+![Projektipaallikko](http://michaelrenshaw.com/wp-content/uploads/2017/08/Project-Management.jpg)
+
 ### Projektipäälliköltä vaaditaan:
 
 Ongelmanratkaisukykyä. Hänen tulee ymmärtää työalue ja pystyä löytämään uusia ratkaisuja.
