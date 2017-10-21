@@ -10,6 +10,13 @@ Sovellus tulee voida käynnistää yhtä nappia painaen joka käynnistää kaikk
 
 ## Esimerkkejä
 
+### Orkestrointityökaluja
+
+* https://www.chef.io/chef/
+* https://puppet.com/products/capabilities/orchestration
+* http://www.fabfile.org/
+* https://www.ansible.com/orchestration
+
 ### Orkestrointi pilvipalvelussa
 ![alt text](http://slideplayer.fi/slide/1973612/7/images/15/Tietoj%C3%A4rjestelm%C3%A4palvelujen+orkestraatio.jpg "orkestraatio")
 Orkestrointikerros toimiii loppukäyttäjän ja varsinaisen järjestelmäkerroksen välissä.
