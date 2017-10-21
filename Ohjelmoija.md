@@ -21,13 +21,14 @@ Näin ohjelman tekeminen on selkeää
 
 
 ## Esimerkkejä
-Asiakas haluaa tehdä verkkokaupan josta voi tilata tuotetta
-Ohjelmoija suunnittelee ja tekee asiakkaalle verkkokaupan
-Herra X menee verkkokaupan sivulle ostamaan itselleen olutta.
-Front-end ohjelmoija on tehnyt selkeän sivuston jota on helppo käyttää.
-Herra X on tilannut oluen verkkokaupasta.
-Back-end ohjelmoijan ansiosta tilaus on saatu talteen ja pystytään käsittelemään.
+Asiakas haluaa tehdä verkkokaupan josta voi tilata tuotetta <br />
+Ohjelmoija suunnittelee ja tekee asiakkaalle verkkokaupan <br />
+Herra X menee verkkokaupan sivulle ostamaan itselleen olutta. <br />
+Front-end ohjelmoija on tehnyt selkeän sivuston jota on helppo käyttää. <br />
+Herra X on tilannut oluen verkkokaupasta. <br />
+Back-end ohjelmoijan ansiosta tilaus on saatu talteen ja pystytään käsittelemään. <br />
 Herra X saa olutta ja kaikki on hyvin.
+
 ## Lähteitä liittyen aiheeseen
 
 Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
