@@ -15,7 +15,7 @@
 | A6 | [Ohjelmistoarkkitehti (Software architech)](ohjelmistoarkkitehti-(Software-architech)) | [Vesiputousmalli - Waterfall- model](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/waterfall-model.md) |  - |
 | A7 | [Yksikkötesti](unit-test) | [Rational Unified Process (RUP)](rational-unified-process) | - |
 | A8 | [Tukihenkilo - Support Person](tukihenkilo) | [Katselmointi (Review)](katselmointi) | - |
-| A9 | [Projektipaallikko - Project Manager]() | [SAFe](scalede-agile-framework) | - |
+| A9 | [Projektipaallikko - Project Manager](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/projektipaallikko%20-%20project%20manager.md) | [SAFe](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/SAFe.md) | - |
 | B1 | [Laatupaallikko - Quality Manager](laatupaallikko) | [CMMi](cmmi) | - |
 | B2 | [Vaatimustenhallinta - Requirement Management](vaatimustenhallinta) | [ALM - Application Lifecycle Management](application-lifecycle-management) | - |
 | B3 | [Toiminnallinen vaatimus (Functional Requirement)](toiminnallinen-vaatimus) | [DevOps](devops) | - |
