@@ -28,7 +28,7 @@
 | C1 | [Palvelumuotoilu - Service Design](Palvelumuotoilu) | [Agile Theme](Agile-Theme) |- |
 | C2 | [LEAN UX](Lean-Ux) | [Agile Epic](Agile-Epic) |- |
 | C3 | [Design Workshop (Suunnittelutyöpaja)](Design-Workshop) | [Lean Body of Knowledge](Lean-Body-of-Knowledge) | - | - |
-| C4 | [Suunnitteluajattelu - Design Thinking](Design-Thinking) | [Project Management Body of Knowledge](Project-Management-Body-of-Knowledge) | - |
+| C4 | [Suunnitteluajattelu - Design Thinking](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/suunnitteluajattelu-designthinking.md) | [Project Management Body of Knowledge](https://github.com/JAMKPROJ/TTOS1000-GT0/edit/master/projectmanagementbodyofknowledge.md) | - |
 | C5 | [Koontipalvelin (Build Server)](koontipalvelin) | [Enterprise Architecture Body of Knowledge](enterprise-architecture-body-of-knowledge) | - |
 | C6 | [Jatkuvajulkaisu (Continuous delivery)](jatkuva-julkaisu) | [Kelpuuttaminen - Validation](kelpuuttaminen-validation) | - |
 | C7 | [Jatkuva integrointi(Continuous Integration)](Jatkuva-integrointi) | [Software Engineering Body of Knowledge](Software-Engineering-Body-of-Knowledge) | - |
