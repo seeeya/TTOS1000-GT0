@@ -21,4 +21,3 @@ Cras ullamcorper lacus sit amet nulla tincidunt, ut hendrerit tortor aliquam. Qu
 ## Linkit wikin muihin sivuihin
 
 * [Vika - Bug](vika.md)
-* [Vaatimustenhallinta](vaatimustenhallinta.md) 
