@@ -4,7 +4,7 @@ Kuvauksen kirjoitti: Ville Rantala, tunnus K1533
 
 ## Lyhyt kuvaus käsitteestä tai aiheesta
 
-Defect eli poikkeama on sellainen ohjelmiston piirre, joka poikkeaa vaatimusmäärittelystä ja/tai käyttäjän odotuksista. Poikkeaman käsite sisältää koodivirheet eli bugit, mutta ei rajoitu niihin. Poikkeaman voi myös aiheuttaa se, että jokin vaatimusmäärittelyn vaatimuksista jätettiin toteuttamatta.
+Defect eli poikkeama on sellainen ohjelmiston piirre, joka poikkeaa vaatimusmäärittelystä ja/tai käyttäjän odotuksista. Poikkeaman käsite sisältää koodivirheet eli bugit, mutta ei rajoitu niihin. Poikkeamiksi luetaan myös vaatimusmäärittelyssä määritetyt, mutta toteuttamattomat vaatimukset.
 
 
 ## Esimerkkejä
@@ -14,8 +14,8 @@ Cras ullamcorper lacus sit amet nulla tincidunt, ut hendrerit tortor aliquam. Qu
 
 ## Lähteitä liittyen aiheeseen
 
-[Software Engineering Stack Exchange - Difference between a defect and a bug in testing?](https://softwareengineering.stackexchange.com/questions/37029/difference-between-a-defect-and-a-bug-in-testing)
-[Software Engineering Fundamentals - Defect](http://softwaretestingfundamentals.com/defect/)
+* [Software Engineering Stack Exchange - Difference between a defect and a bug in testing?](https://softwareengineering.stackexchange.com/questions/37029/difference-between-a-defect-and-a-bug-in-testing)
+* [Software Testing Fundamentals - Defect](http://softwaretestingfundamentals.com/defect/)
 
 
 ## Linkit wikin muihin sivuihin
