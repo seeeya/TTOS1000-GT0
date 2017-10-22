@@ -21,7 +21,7 @@ Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
 
 * [http://www.yss.fi/journal/design-thinking-ja-synteesit/](http://www.yss.fi/journal/design-thinking-ja-synteesit/)
 * [https://fi.wikiversity.org/wiki/Suunnitteluajattelu_(Design_Thinking)](https://fi.wikiversity.org/wiki/Suunnitteluajattelu_(Design_Thinking))
-* []()
+* [https://en.wikipedia.org/wiki/Design_thinking](https://en.wikipedia.org/wiki/Design_thinking)
 
 
 ## Linkit wikin muihin sivuihin
