@@ -56,3 +56,7 @@ https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/vikaraportti.md
 https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/suppport-person.md
 
 https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/muutospyynto.md
+
+https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/defectdatabase.md
+
+https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/reverse-engineering.md
