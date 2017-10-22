@@ -4,41 +4,35 @@ Kuvauksen kirjoitti: LargeMammal, tunnus K1729
 
 ## Lyhyt kuvaus käsitteestä tai aiheesta
 
-**Käytä tätä sivua pohjana omalle wiki-sivulle! Älä muokkaa tätä, vaan tee siitä kopio!**
+Parempi otsikko olisi Tech Support tai Help Desk. Joka tapauksessa ohjelmiston tuki jaetaan nollasta ylöspäin kolmoseen. Nelosaste on myös olemassa, mutta sitä harvemmin käytetään. Tuki jakaa henkilöstön heidän kykyjensä mukaan ja yleensä palkka menee sen mukaan. Jotkin yhtiöt ulkoistavat tuen muille firmoille.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mauris dolor, semper egestas justo nec, dapibus porta risus. Mauris ultrices, felis et pretium dapibus, erat turpis gravida ipsum, eget semper ex ante sit amet magna. Nulla eget lorem orci. Integer a erat ante. In sodales sollicitudin tempus. Vestibulum consequat, sapien nec efficitur hendrerit, orci sapien dignissim metus, sed volutpat nisl ligula sit amet magna.
-
-![Mahdollinen kuva1](https://openclipart.org/image/300px/svg_to_png/223866/Reading-Story-Book-To-Kids.png&disposition=attachment)
-
-
-
-Mauris vitae nibh nec leo iaculis efficitur. Aenean ut sapien in felis dignissim venenatis nec ac ipsum. Donec odio massa, vehicula vel quam non, consequat facilisis quam. Donec cursus convallis sem a rutrum. Ut consequat turpis sed leo iaculis maximus. Vestibulum faucibus vel lacus pharetra congue. Suspendisse potenti.
+nollatason tarkoittaa miehittämätöntä tukea. Esim. automatisoitu salasanojen resetointi ja wikit. Ykköstasolla tukihenkilö hoitaa helppoja ongelman tai siirtää sen ylemmän tason tuelle. Kakkostaso käsittelee bugeja, erheitä ja muita ongelmissa. Jos kakkostaso ei löydä ratkaisua homma siirtyy kolmostasolle. Kolmostasolla toimii yleensä expertti joka toimii vaikeampien ongelmien parissa ja suorittaa ennalta ehkäisyä
 
 ### Muuta
 
-Donec cursus convallis sem a rutrum. Ut consequat turpis sed leo iaculis maximus. Vestibulum faucibus vel lacus pharetra congue. Suspendisse potenti. Donec cursus convallis sem a rutrum. Ut consequat turpis sed leo iaculis maximus. Vestibulum faucibus vel lacus pharetra congue. Suspendisse potenti.
+Ykköstason tehtävä on hoitaa yhteyden ottoja, kerätä dataa ja selvittää asiakkaan ongelma analysoimalla kerättyä dataa. Ykköstason tukeen otetaan yhteyttä jos wikin tai manuaalin ohjeet olleet asiakkaalle tarpeeksi selvät. Ykköstaso voi toimia myös tukena ratkaistuihin kakkos- ja kolmostason ongelmiin.
 
+Kakkostaso antaa tukea ongelmiin joita ei ole vielä ratkaistu. Kaikki bugit, ajuri ongelmat tai muut ongelmat, joita kakkostason tuki ei pysty ratkaiseen eskaloituu kolmostasolle. Siinä tapauksessa kakkostaso jatkaa tietojen keruuta. Kakkostaso pyrkii keräämään tarkempaa tietoa missä tai mistä ongelma on lähtöisin joten kohteena on tiedostot tai tietokannat. Kakkostaso myös pyrkii hallitsemaan tehokasta ajankäyttöä. Jos jossain ongelmassa kuluu liian kauan se eskaloidaan seuraavalle tasolle. Kakkostaso auttaa myös ensimmäistä tasoa.
 
-### Sitä sun tätä
+Kolmostaso on projektin korkein tukiaste ja hoitaa kaikista hankalimmat tapaukset. Kolmostaso analysoi kakkos- ja ykköstason keräämän tiedon ja ratkaisee ongelman sen perusteella. Kolmostason täyttää oman alan expertit ja auttavat ykkös- ja kakkostason väestöä, suorittavat tutkimusta ja kehitystä uusien ongelmien ja ratkaisujen kehittämisessä. Kolmostason väestö on myös vastuussa ajankäytöstä.
 
-Vivamus lobortis augue at erat ullamcorper maximus. Etiam sit amet augue nec neque porttitor blandit eget ut sem.Vivamus lobortis augue at erat ullamcorper maximus. Etiam sit amet augue nec neque porttitor blandit eget ut sem.
+Periaatteessa on olemassa myös nelostaso, jota ei yleensä käytetä. Nelostasolla yleensä kuvastaa ulkopuolista tukea, kuten hardwaren tai softan tuottaja. He toimivat kolmostason janttereiden kanssa, joten heitä ei lasketa yleensä erilliseksi tasoksi vaan resurssiksi.
 
 ## Esimerkkejä
 
-Cras ullamcorper lacus sit amet nulla tincidunt, ut hendrerit tortor aliquam. Quisque non scelerisque turpis, et ornare purus. [Kannatta upottaaa toisten sivja osaksi omaa teksti](home) Praesent accumsan tortor urna, at elementum massa maximus sagittis. Vivamus lobortis augue at erat ullamcorper maximus. Etiam sit amet augue nec neque porttitor blandit eget ut sem. Aenean aliquet hendrerit eros quis faucibus. Suspendisse gravida sit amet ligula non tempus. Duis in efficitur magna. Proin sollicitudin nulla vel tellus lobortis egestas. Maecenas consectetur non elit vitae tristique. Nunc eget facilisis velit. Mauris cursus augue in tempor sollicitudin. Proin ut tellus sed leo aliquet lacinia. Suspendisse a felis id ante suscipit dictum a et lorem. Praesent vestibulum ligula at vestibulum viverra.
+[Taso 0: Arch Linuxin wiki](https://wiki.archlinux.org/)
+[Taso 1: Apple "Genius"](http://www.macgasm.net/wp-content/uploads/2011/11/genius-bar2.jpg)
+[Taso 2: Katso peiliin]()
+[Taso 3: Joku iso kiho](https://en.wikipedia.org/wiki/Linus_Torvalds)
 
 ## Lähteitä liittyen aiheeseen
 
-Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
-
-* Fusce tincidunt quis mauris cursus vulputate.
-* In tellus libero, sollicitudin nec volutpat a,
-* bibendum ac nisi. Morbi eget est est. Vivamus non dignissim nisi, quis tempor magna. Pellentesque sollicitudin hendrerit neque, in molestie sapien porttitor aliquam. Pellentesque facilisis tellus ligula, ut egestas eros commodo ut. Nulla facilisi.
-
+* [Wikipedia](https://en.wikipedia.org/wiki/Technical_support)
+* [Joe Hertvikin blogi](http://joehertvik.com/help-desk-definitions-level-1-level-2-level-3-support/)
+* [Expediten määritelmä](http://www.expeditefile.com/docs/TechnicalSupportTierDefinitions.pdf)
+* [Techpedian artikkeli](https://www.techopedia.com/definition/25809/support-level)
 
 ## Linkit wikin muihin sivuihin
 
-Listaa tähän sivut repositorion sisältä, jotka liittyvät kuvaamaasi käsitteeseen/aiheeseen
-
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
+* [Asiakas](Asiakas.md)
+* [Ylläpito](yllapito.md)

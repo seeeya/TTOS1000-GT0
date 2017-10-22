@@ -40,5 +40,7 @@ Toinen esimerkki olisi kaikki isojen firmojen järjestämät näytökset uutta k
 
 Listaa tähän sivut repositorion sisältä, jotka liittyvät kuvaamaasi käsitteeseen/aiheeseen
 
-* [Peer review]()
-* [Code Review]()
+* [Virhe](Virhe.md)
+* [Yksikkötesti](yksikkötesti.md)
+* [Vika](vika.md)
+* [Regressiotestaus](regressiotestaus.md)
