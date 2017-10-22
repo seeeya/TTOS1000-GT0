@@ -4,7 +4,7 @@ Kuvauksen kirjoitti: Juha-Pekka Tiirikainen, tunnus K2049
 
 ## Lyhyt kuvaus
 
-Suunnitteluajattelu perustuu toimintatapaan, jossa ei ole varsinaista erikseen keskitytä lopputuloksen ulkonäköön, vaan suunnitellaan ja toteutetaan samaan aikaan. Toteuttamisen ohessa pyritään ottamaan huomioon mahdolliset ongelmat nyt ja tulevaisuudessa. 
+Suunnitteluajattelu perustuu toimintatapaan, jossa ei ole varsinaista erikseen keskitytä lopputuloksen ulkonäköön, ideointiin ja desingniin, vaan suunnitellaan ja toteutetaan samaan aikaan. Toteuttamisen ohessa pyritään ottamaan huomioon mahdolliset ongelmat nyt ja tulevaisuudessa. 
 
 
 ![Esimerkki 5 asteisesta suunnitteluajattelusta](https://public-media.interaction-design.org/images/ux-daily/5808b55608af6.jpg)
@@ -25,5 +25,5 @@ Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
 
 Kerää tähän sivut wikin sisältä, jotka mielestäsi liittyvät kuvaamaasi käsitteeseen/aiheeseen
 
-* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
+* [](http://www.yss.fi/journal/design-thinking-ja-synteesit/)
 * [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]() 
