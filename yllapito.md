@@ -50,6 +50,9 @@ Vanhentunut IEEE standardipaperi: http://www.cs.uah.edu/~rcoleman/CS499/CourseTo
 ## Linkit muihin wikisivuihin
 
 https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/vika.md
+
 https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/vikaraportti.md
+
 https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/suppport-person.md
+
 https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/muutospyynto.md
