@@ -20,7 +20,7 @@ Yritysmaailmassa suunnitteluajattelua on sovellettu erityisesti johtamisoppeihin
 Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
 
 * [http://www.yss.fi/journal/design-thinking-ja-synteesit/](http://www.yss.fi/journal/design-thinking-ja-synteesit/)
-* []()
+* [https://fi.wikiversity.org/wiki/Suunnitteluajattelu_(Design_Thinking)](https://fi.wikiversity.org/wiki/Suunnitteluajattelu_(Design_Thinking))
 * []()
 
 
