@@ -6,27 +6,31 @@ Kuvauksen kirjoitti: Elias Virtanen, tunnus H9576
 
 Konfiguraatiohallinta on lyhyesti eri osien tunnistamista sekä näiden osien muutosten tunnistamista ja hallitsemista tietyssä ohjelmassa.
 
-
 ## Pidemmin
 
+Konfiguraationhallinnalla varmistetaan, että dokumentaatio on tarkkaa ja se vastaa fyysistä mallia.
 Konfiguraationhallinta voidaan jakaa 4 eri ryhmään. IEEE standardin mukaan on olemassa Identifiointi, Versionhallinta, 
 Tilatiedon ylläpito sekä Auditointi ja arviointi.
 
 ### Identifiointi
 
-
+Tällä kuvataan ohjelman eri komponentit ja niiden tyypit. 
 
 ### Versionhallinta
 
+Ohjelman eri versioiden ja muutosten hallitsemista koko elinkaaren aikana.
+
 ### Tilatiedon ylläpito
+
+Ohjelman komponentteihin tehtyjen muutosten ylläpito ja dokumentointi
 
 ### Auditointi ja arviointi
 
-
+Varmistaa että ohjelman konfiguroinnin dokumentaatio noudatta funktionaalista ja fyysistä toimintaa.
 
 ## Esimerkkejä
 
-Cras ullamcorper lacus sit amet nulla tincidunt, ut hendrerit tortor aliquam. Quisque non scelerisque turpis, et ornare purus. [Kannatta upottaaa toisten sivja osaksi omaa teksti](home) Praesent accumsan tortor urna, at elementum massa maximus sagittis. Vivamus lobortis augue at erat ullamcorper maximus. Etiam sit amet augue nec neque porttitor blandit eget ut sem. Aenean aliquet hendrerit eros quis faucibus. Suspendisse gravida sit amet ligula non tempus. Duis in efficitur magna. Proin sollicitudin nulla vel tellus lobortis egestas. Maecenas consectetur non elit vitae tristique. Nunc eget facilisis velit. Mauris cursus augue in tempor sollicitudin. Proin ut tellus sed leo aliquet lacinia. Suspendisse a felis id ante suscipit dictum a et lorem. Praesent vestibulum ligula at vestibulum viverra.
+
 
 ## Lähteitä liittyen aiheeseen
 
