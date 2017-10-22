@@ -4,10 +4,10 @@ Kuvauksen kirjoitti: Juha-Pekka Tiirikainen, tunnus K2049
 
 ## Lyhyt kuvaus
 
-Käytä tätä sivua pohjana omalle wiki-sivulle! Älä muokkaa tätä, vaan tee siitä kopio!
+Suunnitteluajattelu perustuu toimintatapaan, jossa ei ole varsinaista erikseen keskitytä lopputuloksen ulkonäköön, vaan suunnitellaan ja toteutetaan samaan aikaan. Toteuttamisen ohessa pyritään ottamaan huomioon mahdolliset ongelmat nyt ja tulevaisuudessa. 
 
 
-![Mahdollinen kuva](https://openclipart.org/image/300px/svg_to_png/223866/Reading-Story-Book-To-Kids.png&disposition=attachment)
+![Esimerkki 5 asteisesta suunnitteluajattelusta](https://public-media.interaction-design.org/images/ux-daily/5808b55608af6.jpg)
 
 ## Esimerkkejä
 
