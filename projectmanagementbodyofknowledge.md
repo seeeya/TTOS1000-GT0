@@ -12,10 +12,12 @@ The Project Management Body of Knowledge on opas joka sisältää stantardeja te
 
 Vaikka opas keskittyy projektien johtamiseen on oppaassa myös huomioita yleisestä johtamisestä, johon liittyy moni projekteihin johtamisen osa-alue:  suunnittelu, organisointi, henkilöstöön liittyvät vastuut ja ongelmat, itse toteuttaminen sekä organisaation/projektin pitäminen hallussa. 
 
+Oppaan on tarjoitus olla suuntaa-antava, kaikki opit eivät toimi kaikilla. Iso osa oppaan tiedoista ja harjoitteista on sovellettavissa erilaisiin projekteihin ja ne ovat saaneet paljon kehuja tiedoistaan ja käytettävyydestään. 
+
 ## Lähteitä liittyen aiheeseen
 
 * [https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge)
-* []()
+* [https://en.wikipedia.org/wiki/Project_Management_Institute](https://en.wikipedia.org/wiki/Project_Management_Institute)
 * []()
 
 ## Linkit wikin muihin sivuihin
