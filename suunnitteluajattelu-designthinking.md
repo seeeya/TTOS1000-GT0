@@ -11,6 +11,9 @@ Suunnitteluajattelu perustuu toimintatapaan, jossa ei ole varsinaista erikseen k
 
 ## Esimerkkejä
 
+Suunnitteluajattelulla tarkoittaa teoriassa samaa asiaa kuin ratkaisuhakuinen ajattelua. Ratkaisuhakuinen ajattelu pyrkii erottumaan vanhoollisesta, tieteellisestä ajattelusta. 
+
+Yritysmaailmassa suunnitteluajattelua on sovellettu erityisesti johtamisoppeihin tuomaan näkökulmaa analyyttisen, objektiivisten faktojen todistamiseen pyrkivän logiigan rinnalle.
 
 ## Lähteitä liittyen aiheeseen
 
