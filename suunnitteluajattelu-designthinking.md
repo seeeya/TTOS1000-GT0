@@ -25,5 +25,5 @@ Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
 
 Kerää tähän sivut wikin sisältä, jotka mielestäsi liittyvät kuvaamaasi käsitteeseen/aiheeseen
 
-* [](http://www.yss.fi/journal/design-thinking-ja-synteesit/)
+* [http://www.yss.fi/journal/design-thinking-ja-synteesit/](http://www.yss.fi/journal/design-thinking-ja-synteesit/)
 * [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]() 
