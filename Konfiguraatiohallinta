@@ -1,0 +1,49 @@
+# Käsite XYZÖÄ
+
+Kuvauksen kirjoitti: Elias Virtanen, tunnus H9576
+
+## Lyhyt kuvaus
+
+Konfiguraatiohallinta on lyhyesti eri osien tunnistamista sekä näiden osien muutosten tunnistamista ja hallitsemista tietyssä ohjelmassa.
+
+## Pidemmin
+
+Konfiguraationhallinnalla varmistetaan, että dokumentaatio on tarkkaa ja se vastaa fyysistä mallia.
+Konfiguraationhallinta voidaan jakaa 4 eri ryhmään. IEEE standardin mukaan on olemassa Identifiointi, Versionhallinta, 
+Tilatiedon ylläpito sekä Auditointi ja arviointi.
+
+### Identifiointi
+
+Tällä kuvataan ohjelman eri komponentit ja niiden tyypit. 
+
+### Versionhallinta
+
+Ohjelman eri versioiden ja muutosten hallitsemista koko elinkaaren aikana.
+
+### Tilatiedon ylläpito
+
+Ohjelman komponentteihin tehtyjen muutosten ylläpito ja dokumentointi
+
+### Auditointi ja arviointi
+
+Varmistaa että ohjelman konfiguroinnin dokumentaatio noudatta funktionaalista ja fyysistä toimintaa.
+
+## Esimerkkejä
+
+
+
+## Lähteitä liittyen aiheeseen
+
+Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?
+
+* Wikipedia [konfiguraationhallinta](https://fi.wikipedia.org/wiki/Ohjelmiston_versiohallinta#Konfiguraationhallinta)
+* Helsingin yliopiston tietojenkäsittelytieteen laitos [konfiguraationhallinta]https://www.cs.helsinki.fi/u/laine/otv/seppanen.pdf)
+* Wikipedia [konfiguraationhallinta](https://fi.wikipedia.org/wiki/Ohjelmiston_versiohallinta#Konfiguraationhallinta)
+
+
+## Linkit wikin muihin sivuihin
+
+Kerää tähän sivut wikin sisältä, jotka mielestäsi liittyvät kuvaamaasi käsitteeseen/aiheeseen
+
+* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]()
+* [Etsi tähän linkki toiseen wikin sisällä olevaan sivuun, joka liittyy oleellisesti omaan aiheeseesi]() 

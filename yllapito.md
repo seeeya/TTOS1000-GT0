@@ -49,4 +49,14 @@ Vanhentunut IEEE standardipaperi: http://www.cs.uah.edu/~rcoleman/CS499/CourseTo
 
 ## Linkit muihin wikisivuihin
 
-**&lt;&lt;TBA&gt;&gt;** <!-- <<TBA>> -->
+https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/vika.md
+
+https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/vikaraportti.md
+
+https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/suppport-person.md
+
+https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/muutospyynto.md
+
+https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/defectdatabase.md
+
+https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/reverse-engineering.md

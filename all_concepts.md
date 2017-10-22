@@ -9,13 +9,13 @@
 |:-:|:-:|:-:| :-:|
 | A1 | [Asiakas - Customer](asiakas) | [Versionumerointi](versionumerointi) | - |
 | A2 | [Tuoteaallikko - Product Manager](Tuotepaallikko) | [Palvelun monitorointi - Service monitoring)](Monitorointi) | - |
-| A3 | [Tuoteomistaja - Product Owner](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Tuoteomistaja.md) | [Orkestrointi - Service Orchestration)](orkestrointi) | - |
+| A3 | [Tuoteomistaja - Product Owner](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Tuoteomistaja.md) | [Orkestrointi - Service Orchestration)](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Orkestrointi.md) | - |
 | A4 | [Testauspaallikko - Test Manager)](testauspaallikko) | [Dokumentinhallinta - Document Management)](dokumentinhallinta) | - |
-| A5 | [Ohjelmoija - Programmer](ohjelmoija) | [Dokumentin metatietomalli - Document Metamodel](dokumenttien-metamallit) | - |
+| A5 | [Ohjelmoija - Programmer](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/ohjelmoija.md) | [Dokumentin metatietomalli - Document Metamodel](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/metatietomalli.md) | - |
 | A6 | [Ohjelmistoarkkitehti (Software architech)](ohjelmistoarkkitehti-(Software-architech)) | [Vesiputousmalli - Waterfall- model](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/waterfall-model.md) |  - |
 | A7 | [Yksikkötesti](unit-test) | [Rational Unified Process (RUP)](rational-unified-process) | - |
 | A8 | [Tukihenkilo - Support Person](tukihenkilo) | [Katselmointi (Review)](katselmointi) | - |
-| A9 | [Projektipaallikko - Project Manager]() | [SAFe](scalede-agile-framework) | - |
+| A9 | [Projektipaallikko - Project Manager](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/projektipaallikko%20-%20project%20manager.md) | [SAFe](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/SAFe.md) | - |
 | B1 | [Laatupaallikko - Quality Manager](laatupaallikko) | [CMMi](cmmi) | - |
 | B2 | [Vaatimustenhallinta - Requirement Management](vaatimustenhallinta) | [ALM - Application Lifecycle Management](application-lifecycle-management) | - |
 | B3 | [Toiminnallinen vaatimus (Functional Requirement)](toiminnallinen-vaatimus) | [DevOps](devops) | - |
@@ -28,7 +28,7 @@
 | C1 | [Palvelumuotoilu - Service Design](Palvelumuotoilu) | [Agile Theme](Agile-Theme) |- |
 | C2 | [LEAN UX](Lean-Ux) | [Agile Epic](Agile-Epic) |- |
 | C3 | [Design Workshop (Suunnittelutyöpaja)](Design-Workshop) | [Lean Body of Knowledge](Lean-Body-of-Knowledge) | - | - |
-| C4 | [Suunnitteluajattelu - Design Thinking](Design-Thinking) | [Project Management Body of Knowledge](Project-Management-Body-of-Knowledge) | - |
+| C4 | [Suunnitteluajattelu - Design Thinking](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/suunnitteluajattelu-designthinking.md) | [Project Management Body of Knowledge](https://github.com/JAMKPROJ/TTOS1000-GT0/edit/master/projectmanagementbodyofknowledge.md) | - |
 | C5 | [Koontipalvelin (Build Server)](koontipalvelin) | [Enterprise Architecture Body of Knowledge](enterprise-architecture-body-of-knowledge) | - |
 | C6 | [Jatkuvajulkaisu (Continuous delivery)](jatkuva-julkaisu) | [Kelpuuttaminen - Validation](kelpuuttaminen-validation) | - |
 | C7 | [Jatkuva integrointi(Continuous Integration)](Jatkuva-integrointi) | [Software Engineering Body of Knowledge](Software-Engineering-Body-of-Knowledge) | - |
@@ -40,7 +40,7 @@
 | D4 | [Regressiotestaus (Regression Testing)](regressio-testaus) | [Jatkuvajulkaisu (Continuous Delivery)](jatkuvajulkaisu) | - |
 | D5 | [Julkaisusuunnittelu (Release Management)](julkaisusuunnittelu) | [Jatkuvasuunnittelu (Continuous Planning)](jatkuvasuunnittelu) | - |
 | D6 | [Kayttoonotto (Service Deployment)](regressio-testaus) | [Liiketoiminantavoite (Business Goal)](liiketoimintatavoite) |- |
-| D7 | [Yllapito (Maintenance)](yllapito) | [Palvelukuvaus - Service Description](service-description) | - |
+| D7 | [Yllapito (Maintenance)](yllapito.md) | [Palvelukuvaus - Service Description](service-description.md) | - |
 | D8 | [Vika - Bug](Vika-(bug)) | [SLA Service Level Agreement](service-level-agreement)) |- |
 | D9 | [Virhe - Failure](Virhe) | [Vianhallinta (Error management)](vianhallinta) | - |
 | E1 | [Ongelma, virhe, vika](ongelma) | [Logi](logi) |- |
@@ -53,7 +53,7 @@
 | E8 | [Mikropalvelu - Micro Service](mikropalvelu) | [Riskien hallinta - Risk Management](riskienhallinta) |- |
 | E9 | [Virtuaalikone - Virtual Machine)](vvirtuaalikone) | [Palvelumuotoilija - Service Designer)](palvelumuotoilija) |- |
 | F1 | [Vagrant-teknologia - Vagrant technology](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Vagrant-teknologia.md) | [Ohjelmistotuotanto](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Ohjelmistotuotanto.md) |
-| F2 | [Systeemi ajattelu - System Thinking](systeemiajattelu) | [ohjelmistotestaaja - software tester](ohjelmistotestaaja)  | 
+| F2 | [Systeemiajattelu - Systems Thinking](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/systeemiajattelu.md) | [ohjelmistotestaaja - software tester](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/ohjelmistotestaaja.md)  | 
 | F3 | [Prosessin omistaja - Process owner](prosessinomistaja) | [Kettera kehittaminen - agile development](kettera-kehittaminen) | - |
 | F4 | [Ohjelmiston elinkaarimalli](ohjelmiston-elinkaarimalli) | [Jatkuva Suunnittelu - Continuous Planning](continuous-planning) | - |
 

@@ -28,6 +28,9 @@ Ford, Chris & Gileadi, Ido & Purba, Sanjiv & Moerman, Mike. ( © 2008). Patterns
 
 What is functional and non-functional requirement https://stackoverflow.com/questions/16475979/what-is-functional-and-non-functional-requirement Viitattu 5.10.2017
 
+Functional Requirements VS Non Functional Requirements http://reqtest.com/requirements-blog/functional-vs-non-functional-requirements/
+Viitattu 22.10.2017
+
 ## Linkit wikin muihin sivuihin
 
 * [Toiminnallinen vaatimus](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/functional-requirement.md)

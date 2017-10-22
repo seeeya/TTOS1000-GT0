@@ -45,4 +45,8 @@ https://en.wikipedia.org/wiki/Service_(systems_architecture)
 
 ## Linkit muihin wikisivuihin
 
-**&lt;&lt;TBA&gt;&gt;** <!-- <<TBA>> -->
+https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/Asiakas.md
+
+https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/LEAN.md
+
+https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/LeanBodyOfKnowledge.md
