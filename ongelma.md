@@ -14,7 +14,7 @@ Vika on taas ohjelmassa oleva osa, joka ei täytä ohjelman määrityksiä. Vika
 
 ## Esimerkkejä
 
-"Isoin __ongelma__ on, että asiakkaamme koneet ovat alitehoisempia kuin meidän testikoneemme. Lisäksi Jounilla teki pienen __virheen__ tietokantamme kanssa ja nyt meillä on monta __vikaa__ meidän järjestelmässämme.
+"Isoin __ongelma__ on, että asiakkaamme koneet ovat alitehoisempia kuin meidän testikoneemme. Lisäksi Jounilla teki pienen __virheen__ tietokantamme kanssa ja nyt meillä on monta __vikaa__ meidän järjestelmässämme."
 
 ## Lähteet
 
