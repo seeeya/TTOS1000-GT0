@@ -19,6 +19,7 @@ KATSELMOINTI 23.10.2017
 * "TBA" 
 * "Lorem Ipsum etc"
 * "Kerää tähän sivut wiki sisältä... etc"
+* **[Etsi	tähän	linkki	toiseen	wikin	sisällä	olevaan	sivuun,	joka	liittyy	oleellisesti	omaan	aiheeseesi]**
 
 ### Tarkistakaa uudelleen linkit muihin käsitesivuihin!
 
