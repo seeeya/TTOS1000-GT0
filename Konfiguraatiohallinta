@@ -47,7 +47,8 @@ Nämä ovat kuitenkin ideaalisia järjestelmiä konfiguraatio järjestelmälle m
 
 ## Esimerkkejä
 
-
+Konfigurointihallintaa käytetään esimerkiksi tapana hallita muutoksia ohjelmointiprojekteissa. Sillä tunnistetaan 
+toiminnallisia ja fyysisiä piirteitä eri aikoina, se suorittaa systemaattisia muutoksia toimintoihin toimivuuden ja jäljitettävyyden ylläpitämiseksi.
 
 ## Lähteitä liittyen aiheeseen
 
