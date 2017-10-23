@@ -37,11 +37,13 @@ Rakentaminen, Prosessienhallinta sekä Ryhmätyöskentely.
 
 ### Prosessienhallinta
 
-- 
+- Organisaation työ- ja toimintatapojen sekä prosesseille määrätyn elinkaaren noudattaminen.
 
 ### Ryhmätyöskentely
 
-- 
+-  Tarkoittaa vuorovaikutusten hallintaa tuotteen yhtäaikaisten kehittäjien väillä.
+
+Nämä ovat kuitenkin ideaalisia järjestelmiä konfiguraatio järjestelmälle mutta käytännössä näitä ei ole olemassa.
 
 ## Esimerkkejä
 
@@ -49,7 +51,7 @@ Rakentaminen, Prosessienhallinta sekä Ryhmätyöskentely.
 
 ## Lähteitä liittyen aiheeseen
 
-* Wikipedia [konfiguraationhallinta](https://fi.wikipedia.org/wiki/Ohjelmiston_versiohallinta#Konfiguraationhallinta)
+* Wikipedia [konfiguraationhallinta](https://en.wikipedia.org/wiki/Configuration_management)
 * Helsingin yliopiston tietojenkäsittelytieteen laitos [konfiguraationhallinta]https://www.cs.helsinki.fi/u/laine/otv/seppanen.pdf)
 * Wikipedia [konfiguraationhallinta](https://fi.wikipedia.org/wiki/Ohjelmiston_versiohallinta#Konfiguraationhallinta)
 
