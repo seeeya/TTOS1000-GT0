@@ -10,13 +10,19 @@ KATSELMOINTI 23.10.2017
 * Linkit lähteisiin antavat vain lisävahvistusta!
 
 
+
+
 ### Poistakaa ja korvatkaa oikealla sisällöllä seuraavat:
 
 * "Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?"
 * "TBD"
+* "TBA" 
 * "Lorem Ipsum etc"
 * "Kerää tähän sivut wiki sisältä... etc"
 
+### Tarkistakaa uudelleen linkit muihin käsitesivuihin!
+
+* Eli varmista, että oma käsitteesi on linkitetty muihin sopiviin käsitteisiin?
 
 
 
