@@ -1,4 +1,31 @@
-### Syksyn TTOS1000-kurssikokeeseen tulevat käsitteet/aihekokonaisuudet
+# Syksyn TTOS1000-kurssikokeeseen tulevat käsitteet/aihekokonaisuudet
+
+
+KATSELMOINTI 23.10.2017
+
+### Yleisiä huomioita:
+
+* Joissakin käsitekuvauksissa on aika lyhyesti asiaa. Kehotan antamaan tarvittaessa esimerkin aiheesta!
+* Mieti, että käsitekuvauksen sisällön perusteella olisi saatava perusajatuksesta kiinni
+* Linkit lähteisiin antavat vain lisävahvistusta!
+
+
+### Poistakaa ja korvatkaa oikealla sisällöllä seuraavat:
+
+* "Mitä lähteitä löysit liittyen annettuun aiheeseen/käsitteeseen?"
+* "TBD"
+* "Lorem Ipsum etc"
+* "Kerää tähän sivut wiki sisältä... etc"
+
+
+
+
+
+
+
+
+# Tehtäväanto
+
 
 * Löydät [pohjan omille MarkDown-sivuille täältä](https://github.com/JAMKPROJ/TTOS1000-GT0/blob/master/use-this-file-as-concept-template.md)
 * Kannattaa katsoa läpi [Youtube-video](https://www.youtube.com/watch?v=LdIDsQhxtr0)
